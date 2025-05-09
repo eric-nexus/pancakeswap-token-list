@@ -3422,5 +3422,13 @@
     "chainId": 56,
     "decimals": 8,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x0555E30da8f98308EdB960aa94C0Db47230d2B9c.png"
+  },
+  {
+    "name": "CROSS",
+    "symbol": "CROSS",
+    "address": "0x6bf62ca91e397B5A7d1D6bCe97D9092065d7A510",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/eric-nexus/pancakeswap-token-list/main/lists/images/0x6bf62ca91e397B5A7d1D6bCe97D9092065d7A510.png"
   }
 ]
